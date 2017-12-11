@@ -20,3 +20,11 @@ public:
 	router0
 	7/0 - 192.168.8.100
 	5/0 - 192.168.36.100
+
+	DNS Server
+	192.168.1.60/169.254.122.2016 (var að reyna "configa" serverinn við switch/router og gaf því aðra ip tölu en útaf DHCP er allt i kluðri.
+
+	Tskoli.is - server
+	169.254.83.163
+	
+	
